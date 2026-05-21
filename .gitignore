@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+tokens.txt
+plate_log.txt
+.venv/
+dist/
+build/
